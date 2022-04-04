@@ -65,7 +65,9 @@
   "isEcma": false,
   "configs": {
     "name": "Default",
-    "children": [],
+    "children": [
+      {"name":"NewConfig1","children":[],},
+    ],
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"startMenu","path":"rooms/startMenu/startMenu.yy",},},
